@@ -1,0 +1,25 @@
+{
+  "name": "picdopdirectusadmin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "dependencies": {
+    "directus": "*",
+    "mysql": "^2.18.1"
+  },
+  "scripts": {
+    "bootstrap": "directus bootstrap",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilpohare/PicDopDirectusAdmin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilpohare/PicDopDirectusAdmin/issues"
+  },
+  "homepage": "https://github.com/sahilpohare/PicDopDirectusAdmin#readme"
+}
